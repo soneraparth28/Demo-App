@@ -1,6 +1,6 @@
 import React from 'react'
 import featureimage from '../assets/feature-image.png'
-// import QA from '../assets/qa.svg'
+import QA from '../assets/QA.svg'
 
 const Feature = () => {
   return (
@@ -28,7 +28,7 @@ const Feature = () => {
 
 <div className="container2 m-20 flex">
   <div className="qa">
-{/*     <img src={QA} alt="" className='w-[400px] m-5 ' /> */}
+    <img src={QA} alt="" className='w-[400px] m-5 ' />
   </div>
   <div className="content text-center">
     <h3 className='text-5xl font-bold justfy-center text-center mx-auto '>Dedicated QA Team</h3>
