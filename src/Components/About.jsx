@@ -2,7 +2,7 @@ import React from 'react'
 import feature1 from '../assets/feature1.svg'
 import chart from '../assets/chart.svg'
 import cycle from '../assets/cycle.svg'
-import QA from '../assets/qa.svg'
+
 
 const About = () => {
   return (
